@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /contact-us/
+Disallow: /diversity-statement/
+Disallow: /about/diversity-statement/
+Disallow: /about-academic-jobs/
+Disallow: /about/term-of-use/
+Allow: /
+Sitemap: https://www.academicjobs.com/sitemap.xml

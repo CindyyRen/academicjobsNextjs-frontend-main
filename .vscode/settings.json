@@ -1,0 +1,15 @@
+{
+  "css.validate": true,
+  "scss.validate": true,
+  "css.lint.unknownAtRules": "ignore",
+  "scss.lint.unknownAtRules": "ignore",
+  "cSpell.words": [
+    "Academicjobs",
+    "DHSI",
+    "Essaypro",
+    "neurodiversity",
+    "Pasifika",
+    "Robina",
+    "Writessays"
+  ]
+}
